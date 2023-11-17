@@ -1,0 +1,94 @@
+{
+  "quizzes": [
+    {
+      "id": 1,
+      "title": "TypeScript Quiz",
+      "questions": [
+        {
+          "id": 1,
+          "type": "multiple-choice",
+          "question": "Which of the following methods is used to access HTML elements using Javascript?",
+          "options": ["getElementbyId()", "getElementsByClassName()", "Both A and B", "None of the above"],
+          "correctAnswer": "Both A and B",
+          "feedback": "Both the above methods are used to access HTML elements using Javascript."
+          },
+        {
+          "id": 2,
+          "type": "text",
+          "question": "Complete the sentence: ________ variables are the variables that are defined outside of functions. They can be used by any function without passing them to the function as parameters.",
+          "correctAnswer": "Global",
+          "feedback": "Global variables are the variables that are defined outside of functions. This means that they can be used by any function without passing them to the function as parameters."
+          
+          },
+        {
+
+          "id": 3,
+          "type": "multiple-choice",
+          "question": "Which of the following keywords is used to define a variable in Javascript?",
+          "options": ["var", "let", "Both A and B", "None of the above"],
+          "correctAnswer": "Both A and B",
+          "feedback": "Both var and let keywords are used to define a variable in Javascript."
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "question": "Who developed JavaScript?",
+          "correctAnswer": "Brenden Eich",
+          "feedback": "Netscape developed JavaScript and was created by Brenden Eich in the year of 1995."
+        },
+        {
+          "id": 5,
+          "type": "image",
+          "question": "Which is the correct image?",
+          "correctAnswer": "",
+          "feedback": ""
+        }
+      ]
+    },
+    {
+          "id": 2,
+          "title": "Python",
+          "questions": [
+        {
+          "id": 1,
+          "type": "multiple-choice",
+          "question": "Which type of Programming does Python support?",
+          "options": ["object-oriented programming", "structured programming", "functional programming", "all of the above mentioned"],
+          "correctAnswer": "all of the above metioned",
+          "feedback": "Python is an interpreted programming language, which supports object-oriented, structured, and functional programming."
+        },
+        {
+          "id": 2,
+          "type": "multiple-choice",
+          "question": "Is Python code compiled or interpreted?",
+          "options": ["Python code is both compiled and interpreted", "Python code is neither compiled nor interpreted", "Python code is only compiled", "Python code is only interpreted"],
+          "correctAnswer": "Python code is both compiled and interpreted",
+          "feedback": "Python can be implemented using compilers or interpreters."
+        },
+        {
+          "id": 3,
+          "type": "multiple-choice",
+          "question": "Which of the following is true for variable names in Python?",
+          "options": ["underscore and ampersand are the only two special characters allowed", "unlimited length", "all private members must have leading and trailing underscores", "none of the above mentioned"],
+          "correctAnswer": "unlimited length",
+          "feedback": "Variable names can be of any length."
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "question": "Python supports the creation of anonymous functions at runtime, using a construct called____________.",
+          "correctAnswer": "lambda",
+          "feedback": "Python supports the creation of anonymous functions at runtime, using a construct called lambda. Lambda functions are restricted to a single expression. They can be used wherever normal functions can be used."
+          },
+        {
+          "id": 5,
+          "type": "image",
+          "question": "Which is the correct image?",
+          "correctAnswer": "",
+          "explanation": ""
+        }
+      ]
+    }
+  ],
+  "results": []
+}
