@@ -39,8 +39,10 @@
         {
           "id": 5,
           "type": "image",
-          "question": "Which is the correct image?",
-          "correctAnswer": "",
+          "question": "Which one correctly shows how to assign variables in JavaScript?",
+          "image_url": "https://example.com/images/example.jpg"          
+          "options": ["First Image", "Second Image"],
+          "correctAnswer": "First Image",
           "feedback": ""
         }
       ]
