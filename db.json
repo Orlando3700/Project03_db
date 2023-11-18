@@ -2,7 +2,7 @@
   "quizzes": [
     {
       "id": 1,
-      "title": "TypeScript Quiz",
+      "title": "JavaScript Quiz",
       "questions": [
         {
           "id": 1,
@@ -39,8 +39,7 @@
         {
           "id": 5,
           "type": "image",
-          "question": "Which one correctly shows how to assign variables in JavaScript?",
-          "image_url": "https://example.com/images/example.jpg"          
+          "question": "Which one correctly shows how to assign variables in JavaScript?",          
           "options": ["First Image", "Second Image"],
           "correctAnswer": "First Image",
           "feedback": ""
@@ -49,7 +48,7 @@
     },
     {
           "id": 2,
-          "title": "Python",
+          "title": "Python Quiz",
           "questions": [
         {
           "id": 1,
