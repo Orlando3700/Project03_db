@@ -40,8 +40,8 @@
           "id": 5,
           "type": "image",
           "question": "Which one correctly shows how to assign variables in JavaScript?",          
-          "options": ["First Image", "Second Image"],
-          "correctAnswer": "First Image",
+          "options": ["IMG_0053", "Second Image"],
+          "correctAnswer": "IMG_0053",
           "feedback": ""
         }
       ]
